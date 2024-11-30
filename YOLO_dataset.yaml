@@ -1,0 +1,8 @@
+train: /content/dataset/train
+val: /content/dataset/val
+
+nc: 2  # Number of classes (sports_ball and no_sports_ball)
+names:
+  0: No Sports Ball
+  1: Sports Ball
+  
