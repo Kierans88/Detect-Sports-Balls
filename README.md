@@ -6,4 +6,4 @@ Machine Learning Computer Vision Python program to detect footballs.
 
 1. Install dependencies
 
-'pip install -r requirements.txt'
+'''pip install -r requirements.txt'''
