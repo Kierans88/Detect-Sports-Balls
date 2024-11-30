@@ -1,1 +1,3 @@
-Machine learning Computer Vision Program to detect footballs
+# Detect Sports Balls
+
+Machine Learning Computer Vision Python program to detect footballs.
